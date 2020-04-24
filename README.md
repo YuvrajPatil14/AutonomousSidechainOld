@@ -7,7 +7,11 @@ Install the required libraries:
 Run the server:
 
     npm run beta
+    
+Run the  Test.bat file from its home directory i.e base:
 
+    Test.bat n
+    (n is number of nodes to start)
 Open browser go to localhost:3000
 
 ### New Instance on same machine
